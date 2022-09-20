@@ -1,8 +1,8 @@
 {
 	"themeName": "Obsidian",
 	"default": {
-		"fgColor": "E0E2E4",
-		"bgColor": "293134"
+		"fgColor": "F1EAD7",
+		"bgColor": "1E272C"
 	},
 	"heading": {
 		"fgColor": "EC7600"
