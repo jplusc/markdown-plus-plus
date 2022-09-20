@@ -1,0 +1,39 @@
+{
+	"themeName": "Obsidian",
+	"default": {
+		"fgColor": "E0E2E4",
+		"bgColor": "293134"
+	},
+	"heading": {
+		"fgColor": "EC7600"
+	},
+	"emphasis": {
+		"fgColor": "B3B689"
+	},
+	"orderedList": {
+		"fgColor": "FFCD22"
+	},
+	"unorderedList": {
+		"fgColor": "678CB1"
+	},
+	"code": {
+		"fgColor": "93C763"
+	},
+	"link": {
+		"fgColor": "A082BD"
+	},
+	"comment": {
+		"fgColor": "66747B"
+	},
+	"gfm": {
+		"table": true
+	},
+	"goodies": {
+		"highlightHex": false,
+		"extraProtocols": "ftp://, ftps://"
+	},
+	"flags": {
+		"transparentBg": false,
+		"asteriskUnorderedList": false
+	}
+}
